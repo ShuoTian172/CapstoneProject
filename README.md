@@ -1,5 +1,3 @@
-_(Udacity: Data Engineering Nano Degree) | jukka.kansanaho@gmail.com | 2019-08-21_
-
 # PROJECT-CAPSTONE: US I94 Immigration Insights
 
 ## Quick start
